@@ -53,7 +53,7 @@ const styles = StyleSheet.create({
     justifyContent: "flex-end",
   },
   cardInner: {
-    padding: 10,
+    padding: 11,
   },
   name: {
     fontSize: 30,
